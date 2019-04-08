@@ -1,4 +1,4 @@
-this is our first console project to learn OOP in java. 
+This is our first console project to learn OOP in java. 
 The application was a bit lengthy due to the nature of the project, however the focal point of this project was setting up the classes
 Concepts of abstraction, interfaces, polymorphism, and adding/removing/manipulating statistics of items into hashmaps were primary components. 
 In this program we had a collection of patients in a hospital.  These patients had baseline vitals.  
